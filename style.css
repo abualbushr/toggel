@@ -1,0 +1,153 @@
+#a{
+    position: relative;
+    top: 30px;
+    left: 200px;
+    width: 400px;
+    height: 150px;
+    border-radius: 80px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 25px auto;
+    background: black;
+    /* box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860 */
+}
+#b{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 350px;
+    height: 130px;
+    border-radius: 70px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(255, 255, 255);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #54cf6c70
+}
+#c{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(106, 250, 164);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860
+}
+#c:hover{
+    transition: 0.2s;
+
+    
+} 
+
+/* Second Botton */
+
+#a1{
+    position: relative;
+    top: 30px;
+    left: 200px;
+    width: 400px;
+    height: 150px;
+    border-radius: 80px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 25px auto;
+    background: black;
+    /* box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860 */
+}
+#b1{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 350px;
+    height: 130px;
+    border-radius: 70px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(255, 255, 255);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #54cf6c70
+}
+#c1{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(106, 250, 164);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860
+}
+#c1:hover{
+    transition: 0.5s;
+    background: #87f389;
+    
+} 
+#a2{
+    position: relative;
+    top: 30px;
+    left: 200px;
+    width: 400px;
+    height: 150px;
+    border-radius: 80px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 25px auto;
+    background: black;
+    /* box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860 */
+}
+#b2{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    width: 350px;
+    height: 130px;
+    border-radius: 70px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(255, 255, 255);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #54cf6c70
+}
+#c2{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+    transition: 0.2s;
+    padding: 24px auto;
+    background: rgb(106, 250, 164);
+    box-shadow: -10px -10px 20px -10px #ff0015f4, 10px 10px 20px 5px #3ff10860
+}
+#c2:hover{
+    transition: 0.5s;
+    background: #87f389;
+    
+} 
